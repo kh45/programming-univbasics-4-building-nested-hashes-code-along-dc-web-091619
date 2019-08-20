@@ -1,3 +1,6 @@
 def first_challenge
-  fuck
+   epic_tragedy = {
+     Montague: {}
+     Capulet: {}
+   }
 end
